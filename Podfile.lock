@@ -1,0 +1,17 @@
+PODS:
+  - Aspects (1.4.1)
+  - JSPatch (1.1):
+    - JSPatch/Core (= 1.1)
+  - JSPatch/Core (1.1)
+
+DEPENDENCIES:
+  - Aspects
+  - JSPatch
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  JSPatch: ade285ad1d8f06146ed6054a39cef87509453299
+
+PODFILE CHECKSUM: 5e4363614bd7e6ecb47dc0ac2d34e6ea81495a3a
+
+COCOAPODS: 1.0.1
